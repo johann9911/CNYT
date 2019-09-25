@@ -39,3 +39,5 @@
         14. distancia(V1,V2) - Funcion que retorna la distancia entre dos vectores complejos.
         15. mat_uni(M) - Funcion que retorna si una matriz es unitaria o no.
         16. mat_her(M) - Funcion que retorna si una matriz es hermitiana o no.
+        17. producto_tensorial(M,V) - Funcion del prodcuto tensorial entre vector y matriz.
+         
