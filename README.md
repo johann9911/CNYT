@@ -1,10 +1,12 @@
 # CURSO CNYT CIENCIAS NATURALES Y TECNOLOGIA
-## PROYECTO 2: VECTORES Y MATRICES
+
+## CALCULADORA NUMEROS COMPLEJOS
+
 ## JOHANN STEVEN BOGOTÁ VÉLEZ
 
 
-### CONTENIDO:
-    PROYECTO 1: Se realizo una libreria con las operaciones basicas de los numeros complejos
+## CONTENIDO:
+   ## PROYECTO 1: Se realizo una libreria con las operaciones basicas de los numeros complejos
         0. imprimir(C) - Funcion para imprimir un numero complejos
         1. suma_C(C1,C2) - Funcion que realiza la suma de dos numeros complejos y lo retorna
         2. resta_C(C1,C2) - Funcion que realiza la resta de dos numeros complejos y lo retorna
@@ -16,7 +18,7 @@
             que hacen operaciones basicas como la suma y la multiplicacion
         7. Rec_Polar(C1) - Funcion que retorna dada una forma rectangular a una polar
         8. Polar_Rec(C1) - Funcion que retorna dada una forma polar a una rectangular
-    PROYECTO 2: Se realizo una libreria con operaciones entre vectores y matrices complejas
+   ## PROYECTO 2: Se realizo una libreria con operaciones entre vectores y matrices complejas
         0. imprimir_vec(V1, tam) - Funcion que muestra los vectores complejos
         0.2 imprimir_mat(V1, fila1, columna1) - Funcion que imprime las matrices complejas
         1. adi_vectores(V1, V2) - Funcion que realiza la suma de dos vectores complejos
