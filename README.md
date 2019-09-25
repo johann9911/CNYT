@@ -1,9 +1,9 @@
-CURSO CNYT CIENCIAS NATURALES Y TECNOLOGIA
-PROYECTO 2: VECTORES Y MATRICES
-JOHANN STEVEN BOGOTÁ VÉLEZ
+# CURSO CNYT CIENCIAS NATURALES Y TECNOLOGIA
+## PROYECTO 2: VECTORES Y MATRICES
+## JOHANN STEVEN BOGOTÁ VÉLEZ
 
 
-CONTENIDO:
+### CONTENIDO:
     PROYECTO 1: Se realizo una libreria con las operaciones basicas de los numeros complejos
         0. imprimir(C) - Funcion para imprimir un numero complejos
         1. suma_C(C1,C2) - Funcion que realiza la suma de dos numeros complejos y lo retorna
