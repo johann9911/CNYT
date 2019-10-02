@@ -41,8 +41,14 @@
         16. mat_her(M) - Funcion que retorna si una matriz es hermitiana o no.
         17. producto_tensorial(M,V) - Funcion del prodcuto tensorial entre vector y matriz.
   ## PROYECTO 3: Se realizo una libreria resolviendo sistemas y su dinamica
-        0. Sistema clasico/ dina_clasica(V,M,clicks) - Se pide estado inicial, matriz de adyacencia y clicks de tiempo para resolver el            sistema determinista
-        1. Sistema probabilistico/ dina_probabilistica(V,M,clicks) - Se pide estado inicial, matriz de adyacencia y clicks de tiempo                para resolver el sistema probabilistico, para esto la matriz tiene que ser doblemente estocastica
-        2. Sistema Cuantico/cuantico(V,M,clicks) - Se pide estado inicial, matriz de adyacencia y clicks de tiempo para resolver el                sistema cuantico, para esto la matriz tiene que ser unitaria
-        3. Funcion que ensambla sistemas/ ensamble(V1, V2, M1,M2, clicks) - Se pide dos vectores iniciales ,dos matrices de adyacencia ,            y sus clicks de tiempo que determina el estado donde va a estar despues de cierto tiempo en sus dos sistemas
-        4. Experimento de la doble rendija/ doble_ren(num_ren, num_blancos_pared, vector_prob) -  Funcion que determina la probabilidad            de un sistema en este caso de la doble rendija en estar en cierto estado dado sus rendijas y los numeros ed blancos en las              paredes
+        0. Sistema clasico/ dina_clasica(V,M,clicks) - Se pide estado inicial, matriz de adyacencia y clicks de tiempo para resolver el
+            sistema determinista
+        1. Sistema probabilistico/ dina_probabilistica(V,M,clicks) - Se pide estado inicial, matriz de adyacencia y clicks de tiempo
+            para resolver el sistema probabilistico, para esto la matriz tiene que ser doblemente estocastica
+        2. Sistema Cuantico/cuantico(V,M,clicks) - Se pide estado inicial, matriz de adyacencia y clicks de tiempo para resolver el 
+            sistema cuantico, para esto la matriz tiene que ser unitaria
+        3. Funcion que ensambla sistemas/ ensamble(V1, V2, M1,M2, clicks) - Se pide dos vectores iniciales ,dos matrices de adyacencia ,
+            y sus clicks de tiempo que determina el estado donde va a estar despues de cierto tiempo en sus dos sistemas
+        4. Experimento de la doble rendija/ doble_ren(num_ren, num_blancos_pared, vector_prob) -  Funcion que determina la probabilidad
+            de un sistema en este caso de la doble rendija en estar en cierto estado dado sus rendijas y los numeros ed blancos en las
+            paredes
