@@ -40,4 +40,9 @@
         15. mat_uni(M) - Funcion que retorna si una matriz es unitaria o no.
         16. mat_her(M) - Funcion que retorna si una matriz es hermitiana o no.
         17. producto_tensorial(M,V) - Funcion del prodcuto tensorial entre vector y matriz.
-         
+  ## PROYECTO 3: Se realizo una libreria resolviendo sistemas y su dinamica
+        0. Sistema clasico
+        1. Sistema probabilistico
+        2. Sistema Cuantico
+        3. Funcion que ensambla sistemas
+        4. Experimento de la doble rendija
