@@ -54,5 +54,6 @@
             la probabilidad de un sistema en este caso de la doble rendija en estar en cierto estado dado sus rendijas
             y los numeros ed blancos en las paredes
   ## PROYECTO 3: Esfera de bloch 
-        0. Esfera con varias ciudades representadas en la esfera, de tal manera que se representan por medio de un punto, una linea y              una etiqueta
+        0. Esfera con varias ciudades representadas en la esfera, de tal manera que se representan por medio de un punto,
+         una linea y una etiqueta
         1. Grafica en la esfera de blloch de diversos kets basicos
